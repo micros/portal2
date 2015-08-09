@@ -1,0 +1,7 @@
+{
+    "name": "micros/portal2",
+    "description": "Portal de Micrositios V2",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
