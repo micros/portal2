@@ -1,9 +1,15 @@
 {
-    "name": "micros/portal",
-    "description": "Portal de Micrositios V2",
-    "version":"1.0.0-dev",
+    "name": "micros/portal2",
+    "description": "Portal clasico de Micrositios V2",
     "require": {
-        "php": ">=5.3.0",
-        "monolog/monolog": "^1.16"
-    }
+        "monolog/monolog": "^1.16@dev"
+    },
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "Leonardo Forero",
+            "email": "gerencia@micrositios.net"
+        }
+    ],
+    "minimum-stability": "dev"
 }
